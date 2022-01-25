@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/pliniki">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pliniki&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliniki&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img dir="auto" height="180em" src="https://github-readme-stats.vercel.app/api?username=pliniki&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img dir="auto" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliniki&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div align="center" style="display: inline_block"><br><br>
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
