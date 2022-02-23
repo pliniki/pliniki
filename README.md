@@ -1,11 +1,11 @@
 ### Sejam todes bem vindes!! 👋
 
-## Eu sou o Paulo Carvalho, estudante de programação e apaixonado por tecnologia JAVA!
+## Eu sou o Paulo Carvalho, formando desenvolvedor Full-Stack JAVA na Genaration Brasil!
 
 <br>
 
- 🔭 Curto coisas de Front-End
- 🌱 Amo as linguagens HTML, CSS, JS e JAVA ❤️ Sintam-se a vonts para colaborar no meu perfil ✨
+ 🔭 Curto coisas de back-end
+ 🌱 Linguagens HTML, Java, e JS ❤️ Sintam-se a vonts para colaborar no meu perfil ✨
  
  <br>
 
