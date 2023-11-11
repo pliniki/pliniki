@@ -1,6 +1,6 @@
 ### Sejam todes bem vindes!! 👋
 
-## Eu sou o Paulo Carvalho, formando desenvolvedor Full-Stack JAVA na Genaration Brasil!
+## Full-Stack JAVA-Angular
 
 <br>
 
